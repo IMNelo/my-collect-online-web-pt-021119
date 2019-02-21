@@ -1,10 +1,10 @@
 def my_collect(array)
   counter = 0
     collection = []
-    while counter < array.length.upcase
+      while counter < array.length.upcase
     collection << yield(array[counter])
   counter += 1
-    end
+      end
     collection
 end
 
