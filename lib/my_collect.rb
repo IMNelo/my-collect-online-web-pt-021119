@@ -1,4 +1,4 @@
-array = ["ruby", "javascript", "python", "objective-c"]
+#array = ["ruby", "javascript", "python", "objective-c"]
 
 def my_collect(array)
   counter = 0
