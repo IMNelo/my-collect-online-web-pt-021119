@@ -7,5 +7,3 @@ def my_collect(array)
 end
 
 
-my_collection(["ruby", "javascript", "python", "objective-c"]) do { |lang| lang.upcase }
-end
